@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5498655e.css","mappings":"AAAA,MACC,WACD,CACA,UACC,cACD","sources":["Components/CustomerBill.css"],"sourcesContent":[".card {\r\n\tborder: none;\r\n}\r\n.fontSize {\r\n\tfont-size: 15px;\r\n}\r\n"],"names":[],"sourceRoot":""}
